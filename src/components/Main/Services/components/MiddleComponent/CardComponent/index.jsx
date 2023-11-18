@@ -2,7 +2,7 @@ export default function CardComponent(props) {
   const data = props.data;
   return (
     <>
-      <div className="w-full border-2 border-[#E6EAE9] bg-white rounded p-4 flex flex-col items-center justify-center leading-normal bg-serviceBG">
+      <div className="w-full border-2 border-[#E6EAE9] rounded p-4 flex flex-col items-center justify-center leading-normal">
         <img
           src={data?.url ? data.url : ""}
           alt={data?.title}

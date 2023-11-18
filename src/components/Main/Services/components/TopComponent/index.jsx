@@ -1,3 +1,3 @@
 export default function TopComponent() {
-  return <p className="text-5xl text-center text-gray-700 font-bold">Our Services</p>;
+  return <p className="text-5xl text-center font-bold text-serviceTitle">Our Services</p>;
 }

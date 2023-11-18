@@ -1,7 +1,7 @@
 import CardComponent from "./CardComponent"
-import person from "../../../../../person.png"
-import cash from "../../../../../cash.png"
-import car from "../../../../../car.png"
+import person from "../../../../../static/images/person.png"
+import cash from "../../../../../static/images/cash.png"
+import car from "../../../../../static/images/car.png"
 
 export default function MiddleComponent() {
   const cardData = [
@@ -28,7 +28,7 @@ export default function MiddleComponent() {
     }];
   return (
     <>
-      <div className="flex justify-center gap-4 p-8 bg-serviceBG">
+      <div className="flex justify-center gap-4 p-8">
         {cardData.map((data) => (
           <CardComponent key={data.id} data={data} />
         ))}

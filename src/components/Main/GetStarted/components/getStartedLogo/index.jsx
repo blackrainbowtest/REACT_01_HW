@@ -1,4 +1,4 @@
-import getStartedLogoImg from "../../../../../GetStarted.png";
+import getStartedLogoImg from "../../../../../static/images/GetStarted.png";
 
 export default function GetStartedLogo() {
   return (
