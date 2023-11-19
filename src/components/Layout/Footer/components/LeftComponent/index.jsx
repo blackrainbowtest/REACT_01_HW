@@ -1,7 +1,7 @@
 export default function LeftComponent() {
   return (
     <>
-      <div className="w-1/3 text-[#fff]">
+      <div className="w-1/3 text-white">
         <p className="text-5xl font-bold pb-8">
           Quick
           <span className="text-[#39C260]">Funds</span>
@@ -16,7 +16,7 @@ export default function LeftComponent() {
             type="button"
             data-te-ripple-init
             data-te-ripple-color="light"
-            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal text-white shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
+            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
             style={{ backgroundColor: "#fff" }}
           >
             <svg
@@ -34,7 +34,7 @@ export default function LeftComponent() {
             type="button"
             data-te-ripple-init
             data-te-ripple-color="light"
-            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal text-white shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
+            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
             style={{ backgroundColor: "#fff" }}
           >
             <svg
@@ -52,7 +52,7 @@ export default function LeftComponent() {
             type="button"
             data-te-ripple-init
             data-te-ripple-color="light"
-            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal text-white shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
+            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
             style={{ backgroundColor: "#fff" }}
           >
             <svg
@@ -70,7 +70,7 @@ export default function LeftComponent() {
             type="button"
             data-te-ripple-init
             data-te-ripple-color="light"
-            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal text-white shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
+            className="mb-2 inline-block rounded-full p-1 text-xs font-medium uppercase leading-normal shadow-md transition duration-150 ease-in-out hover:shadow-lg focus:shadow-lg focus:outline-none focus:ring-0 active:shadow-lg"
             style={{ backgroundColor: "#fff" }}
           >
             <svg

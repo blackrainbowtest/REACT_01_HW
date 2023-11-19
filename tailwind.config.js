@@ -18,6 +18,7 @@ module.exports = {
       'buttonBgDark': "#2A6877",
       'buttonBgDarkHover': "#19333A",
       'buttonDarkText': '#1B424C',
+      'white': '#fff',
     },
   },
   plugins: [],
