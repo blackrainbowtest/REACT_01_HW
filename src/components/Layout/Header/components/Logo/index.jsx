@@ -3,7 +3,7 @@ export default function Links() {
       <div>
         <p className="text-3xl font-black">
             Quick
-            <span className="text-emerald-600">
+            <span className="text-[#39C260]">
                 Funds
             </span>
         </p>
